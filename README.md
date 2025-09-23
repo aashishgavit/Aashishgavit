@@ -32,37 +32,6 @@
 
 ---
 
-### 💼 Projects Showcase  
-
-<div align="center">
-
-<a href="https://github.com/RahulGadhaveDev/village-worker-management" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Village+Worker+Manager" alt="Village Worker Manager" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Village Worker Management System</b>  
-  <br>
-  <a href="https://github.com/RahulGadhaveDev/village-worker-management" target="_blank">View Repo</a>
-</a>
-
-<a href="https://github.com/RahulGadhaveDev/product-inventory" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Product+Inventory" alt="Product Inventory" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Product Inventory Manager</b>  
-  <br>
-  <a href="https://github.com/RahulGadhaveDev/product-inventory" target="_blank">View Repo</a>
-</a>
-
-<a href="https://github.com/RahulGadhaveDev/library-system" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Library+System" alt="Library System" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Library Catalog System</b>  
-  <br>
-  <a href="https://github.com/RahulGadhaveDev/library-system" target="_blank">View Repo</a>
-</a>
-
-</div>
-
----
 
 ### 🏆 Certifications & Achievements  
 - Completed *Java + Hibernate Projects*  
@@ -83,8 +52,8 @@
 
 ### 📫 Contact Me  
 <p align="center">
-  <a href="mailto:rahulgadhave022@gmail.com"><img src="https://img.shields.io/badge/Email-rahulgadhave022@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://www.linkedin.com/in/aashish-gavit-337184137/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Gadhave-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <img src="https://img.shields.io/badge/Mobile-8788896977-brightgreen?style=for-the-badge&logo=phone&logoColor=white"/>  
-  <a href="YOUR_RESUME_LINK"><img src=""/></a>
+  <a href="mailto:aashishgavit29@gmail.com"><img src="https://img.shields.io/badge/Email-aashishgavit29@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/in/aashish-gavit-337184137"><img src="https://img.shields.io/badge/LinkedIn-Aashish%20Gavit-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <img src="https://img.shields.io/badge/Mobile-8381006885-brightgreen?style=for-the-badge&logo=phone&logoColor=white"/>  
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
