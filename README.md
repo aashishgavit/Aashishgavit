@@ -1,88 +1,35 @@
-# 👋 Hi, I'm Aashish Gavit  
-### 🚀 Full Stack Java Developer | Backend-Focused | Cloud-Ready
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Aashish Gavit</h1>
 
-I’m a **Full Stack Java Developer with ~2 years of professional experience**, building **scalable backend services and clean user interfaces**.  
-I enjoy working on **real-world systems**, optimizing APIs, and learning how large applications are designed, deployed, and maintained.
-
-💡 Strong in **Java, Spring Boot, REST APIs, SQL**, with hands-on exposure to **Azure cloud** and enterprise projects.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+Cloud+%26+DevOps&center=true&width=520&height=45">
+</p>
 
 ---
 
-## 🧑‍💻 Professional Summary  
+## 🚀 About Me  
 
-- 🔹 2+ years of experience in **Java & Spring Boot development**
-- 🔹 Built and maintained **RESTful APIs** used in production
-- 🔹 Strong understanding of **OOP, Collections, Exception Handling**
-- 🔹 Experience with **Hibernate / JPA** for ORM and DB interaction
-- 🔹 Comfortable working with **MySQL & PostgreSQL**
-- 🔹 Familiar with **cloud fundamentals (Azure – AZ-900)**
-- 🔹 Hands-on with **end-to-end full-stack applications**
+- Java Full Stack Developer with **2+ years of experience in backend and enterprise application development**  
+- Strong expertise in **Java, Spring Boot, Microservices, and REST API development**  
+- Experienced in building **scalable, secure, and high-performance distributed systems**  
+- Proficient in **system design, database integration (SQL & NoSQL), and API-driven architecture**  
+- Hands-on experience with **Docker, CI/CD pipelines, and cloud-based deployment practices**  
+- Skilled in **Agile methodologies, code reviews, debugging, and production support**  
+- Focused on writing **clean, maintainable, and optimized code following best practices**  
 
 ---
 
 ## 🛠 Tech Stack  
 
-### Backend  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge"/>
-</p>
-
-### Database  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### Cloud & Tools  
-<p>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-## 📦 Projects (Real-World Focused)
-
-### 🧾 Employee Timesheet & Approval Management System  
-- Spring Boot REST APIs for employee timesheet submission  
-- Role-based access (Employee / Manager / Admin)  
-- Approval workflow & status tracking  
-- MySQL + Hibernate (JPA)  
-- Clean layered architecture (Controller → Service → Repository)
-
-### 📚 Library Management System  
-- CRUD operations for books & users  
-- Issue/return flow with validations  
-- Exception handling & reusable services  
-
-### 📦 Inventory Management System  
-- Stock tracking & product management  
-- SQL-optimized queries  
-- REST API based architecture  
-
----
-
-## 🏆 Certifications & Achievements  
-
-✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-<img src="https://img.shields.io/badge/AZ--900-Certified-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-
-- ✔ Completed multiple **Java + Hibernate** projects  
-- ✔ Hands-on experience with **Spring Boot REST APIs**  
-- ✔ Strong problem-solving skills (DSA & SQL)
+| Category       | Technologies |
+|---------------|-------------|
+| Backend       | Java (8, 11, 17), Spring Boot, Spring MVC, Spring Security, JPA, Hibernate |
+| Frontend      | JavaScript, HTML5, CSS3 |
+| Database      | MySQL, MongoDB, PostgreSQL, Oracle |
+| Microservices | Eureka, Feign Client, API Gateway, Config Server |
+| DevOps        | Docker, Kubernetes, Jenkins, CI/CD |
+| Tools         | Git, GitHub, Maven, Postman, Swagger |
+| Testing       | JUnit, Mockito |
 
 ---
 
@@ -90,60 +37,95 @@ I enjoy working on **real-world systems**, optimizing APIs, and learning how lar
 
 <p align="center">
   <a href="https://www.hackerrank.com/aashishgavit29">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-Gold%20(3⭐)-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-Intermediate-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-Advanced-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Gold%20(3⭐)-C9A227?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning  
+## 💼 Work Experience  
+
+**Role:** Software Developer (Java Backend)  
+**Duration:** Jan 2024 – Present  
+
+---
+
+### 🔹 Credit Card Platform  
+
+- Developed and maintained **REST APIs** for Account Summary, Transactions, and Real-time Balance  
+- Designed backend services using **Spring Boot & Microservices architecture**  
+- Focused on **performance, scalability, and secure data handling**  
+- Collaborated with frontend teams using **Swagger (contract-first approach)**  
+- Worked in **Agile environment**  
+
+---
+
+### 🔹 Wealth Management Distribution System  
+
+- Built internal portal (**Domain Discovery Portal - DDP**)  
+- Developed **RESTful APIs using Java & Spring Boot**  
+- Improved **application security and performance**  
+- Collaborated on **bug fixing and feature enhancements**  
+- Participated in **Agile ceremonies and estimations**  
+
+---
+
+## 🧠 Core Expertise  
+
+- Scalable Application Design  
+- Microservices Architecture  
+- REST API Development  
+- System Design  
+- Performance Optimization  
+- Agile & SDLC  
+
+---
+
+## 🏆 Certifications  
+
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**  
+- Java Full Stack Certification  
+
+---
+
+## 📊 GitHub Activity  
 
 <p align="center">
-
-- Advanced Spring Boot concepts and REST API design best practices
-
-- Spring Security with role-based access and JWT authentication
-
-- Microservices architecture fundamentals and service communication
-
-- Database optimization (indexes, query tuning, pagination)
-
-- Azure cloud deployment basics for Java applications
-
-- Writing clean, scalable, and production-ready Java code
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aashishgavit&show_icons=true&hide_border=true&theme=github_dark" />
 </p>
-
----
-
-## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AashishGavit&show_icons=true&theme=tokyonight&hide=issues" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AashishGavit&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashishgavit&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Let’s Connect  
+## 🤝 Let's Connect  
 
 <p align="center">
   <a href="mailto:aashishgavit29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aashishgavit29@gmail.com-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="38"/>
   </a>
   <a href="https://www.linkedin.com/in/aashish-gavit-337184137">
-    <img src="https://img.shields.io/badge/LinkedIn-Aashish%20Gavit-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="38"/>
   </a>
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge"/>
+  <a href="https://github.com/aashishgavit">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="38"/>
   </a>
+</p>
+
+<p align="center">
+  <i>Open to Java Backend / Full Stack Opportunities</i>
 </p>
 
 ---
 
-⭐ *Open to Java Backend / Full Stack roles where I can build scalable systems and grow as an engineer.*
+## ⚡ Fun Fact  
+
+### I enjoy building scalable backend systems and optimizing performance 🚀  
